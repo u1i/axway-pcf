@@ -1,4 +1,0 @@
-kubectl create namespace big
-
-kubectl apply -f big.yaml --namespace=big
-
